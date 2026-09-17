@@ -212,3 +212,8 @@ student can clone the repo, run `npm install`, copy `.env.example` to
 `.env` with their own credentials, run `database/schema.sql`, and start
 the app with `npm start`.
 
+
+#Live website
+https://ai.studio/apps/78217631-a68d-4403-b1dd-0d3187b3e7db?fullscreenApplet=true
+
+
